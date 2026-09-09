@@ -1,0 +1,24 @@
+{
+    "campanha": "Sorteio São Allan do Leste",
+    "slug": "sorteio-sao-allan-do-leste",
+    "lista_congelada_em": "2026-09-09T05:33:51-03:00",
+    "quantidade_de_numeros_validos": 2,
+    "regra": "Para cada prêmio, o bilhete premiado correspondente da extração da Loteria Federal é dividido pela quantidade de números válidos; o resto da divisão é a posição do ganhador nesta lista (posições a partir de 0). Um cliente não leva dois prêmios: se a posição cair em quem já ganhou, vale o próximo número de outro cliente.",
+    "extracao_prevista": "2026-10-16",
+    "numeros": [
+        {
+            "posicao": 0,
+            "numero": "00001",
+            "cliente": "Cliente 1.",
+            "celular": "(65) •••••-1212",
+            "loja": "Croc Frangos Itajaí"
+        },
+        {
+            "posicao": 1,
+            "numero": "00002",
+            "cliente": "Cliente 2.",
+            "celular": "(51) •••••-7958",
+            "loja": "Croc Frangos Itajaí"
+        }
+    ]
+}
